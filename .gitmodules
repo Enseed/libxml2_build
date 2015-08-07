@@ -1,0 +1,12 @@
+[submodule "libxml2"]
+	path = libxml2
+	url = https://github.com/Enseed/libxml2.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/Enseed/zlib.git
+[submodule "libiconv"]
+	path = libiconv
+	url = https://github.com/Enseed/libiconv.git
+[submodule "build/staging"]
+	path = build/staging
+	url = https://github.com/Enseed/libxml2_bin.git
